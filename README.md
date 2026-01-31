@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Isarn1611/Isarn1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **IsArn**, an IT student from Thailand 🇹🇭  
+I enjoy both **designing** and **coding** — turning ideas into real interfaces.
 
-Here are some ideas to get you started:
+### 🎨 Design & Code Stack
+- Design: Figma, Adobe Photoshop, Adobe Illustrator
+- Frontend: React, JavaScript, Tailwind CSS
+- Basics: HTML, CSS
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Enjoying
+- UI design & layout thinking
+- Building clean components
+- Improving design-to-code workflow
+
+### ✨ Fun Facts
+- I'm a gamer 🎮
+- Learning by building is my thing
+- I'm not a morning person, but I have to 😅
